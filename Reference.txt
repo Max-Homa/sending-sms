@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=5s9GamjYQpo&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx&index=3 - Node.js
+
+https://webref.ru/dev/first-node-app/http-server
